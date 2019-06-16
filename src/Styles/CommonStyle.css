@@ -1,0 +1,26 @@
+html,body {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.full-height {
+    height: 100% !important;
+}
+
+.cursor-pointer {
+    cursor: pointer !important;
+}
+
+.show-content {
+    display: block !important;
+}
+
+.hide-content {
+    display: none !important;
+}
+
+.center-content {
+    text-align: center !important;
+}

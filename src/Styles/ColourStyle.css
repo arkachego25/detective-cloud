@@ -1,0 +1,68 @@
+.txt-black          { color: rgb(27, 28, 29) !important;                        }
+.txt-white          { color: rgb(255, 255, 255) !important;                     }
+.txt-red            { color: rgb(219, 40, 40) !important;                       }
+.txt-orange         { color: rgb(242, 113, 28) !important;                      }
+.txt-yellow         { color: rgb(251, 189, 8) !important;                       }
+.txt-olive          { color: rgb(181, 204, 24) !important;                      }
+.txt-green          { color: rgb(33, 186, 69) !important;                       }
+.txt-teal           { color: rgb(0, 181, 173) !important;                       }
+.txt-blue           { color: rgb(33, 133, 208) !important;                      }
+.txt-violet         { color: rgb(100, 53, 201) !important;                      }
+.txt-purple         { color: rgb(163, 51, 200) !important;                      }
+.txt-pink           { color: rgb(224, 57, 151) !important;                      }
+.txt-brown          { color: rgb(165, 103, 63) !important;                      }
+.txt-grey           { color: rgb(118, 118, 118) !important;                     }
+
+.bck-black          { background-color: rgb(27, 28, 29) !important;             }
+.bck-white          { background-color: rgb(255, 255, 255) !important;          }
+.bck-red            { background-color: rgb(219, 40, 40) !important;            }
+.bck-orange         { background-color: rgb(242, 113, 28) !important;           }
+.bck-yellow         { background-color: rgb(251, 189, 8) !important;            }
+.bck-olive          { background-color: rgb(181, 204, 24) !important;           }
+.bck-green          { background-color: rgb(33, 186, 69) !important;            }
+.bck-teal           { background-color: rgb(0, 181, 173) !important;            }
+.bck-blue           { background-color: rgb(33, 133, 208) !important;           }
+.bck-violet         { background-color: rgb(100, 53, 201) !important;           }
+.bck-purple         { background-color: rgb(163, 51, 200) !important;           }
+.bck-pink           { background-color: rgb(224, 57, 151) !important;           }
+.bck-brown          { background-color: rgb(165, 103, 63) !important;           }
+.bck-grey           { background-color: rgb(118, 118, 118) !important;          }
+
+.bck-red-75         { background-color: rgba(219, 40, 40, 0.75) !important;     }
+.bck-orange-75      { background-color: rgba(242, 113, 28, 0.75) !important;    }
+.bck-yellow-75      { background-color: rgba(251, 189, 8, 0.75) !important;     }
+.bck-olive-75       { background-color: rgba(181, 204, 24, 0.75) !important;    }
+.bck-green-75       { background-color: rgba(33, 186, 69, 0.75) !important;     }
+.bck-teal-75        { background-color: rgba(0, 181, 173, 0.75) !important;     }
+.bck-blue-75        { background-color: rgba(33, 133, 208, 0.75) !important;    }
+.bck-violet-75      { background-color: rgba(100, 53, 201, 0.75) !important;    }
+.bck-purple-75      { background-color: rgba(163, 51, 200, 0.75) !important;    }
+.bck-pink-75        { background-color: rgba(224, 57, 151, 0.75) !important;    }
+.bck-brown-75       { background-color: rgba(165, 103, 63, 0.75) !important;    }
+.bck-grey-75        { background-color: rgba(118, 118, 118, 0.75) !important;   }
+
+.bck-red-50         { background-color: rgba(219, 40, 40, 0.5) !important;      }
+.bck-orange-50      { background-color: rgba(242, 113, 28, 0.5) !important;     }
+.bck-yellow-50      { background-color: rgba(251, 189, 8, 0.5) !important;      }
+.bck-olive-50       { background-color: rgba(181, 204, 24, 0.5) !important;     }
+.bck-green-50       { background-color: rgba(33, 186, 69, 0.5) !important;      }
+.bck-teal-50        { background-color: rgba(0, 181, 173, 0.5) !important;      }
+.bck-blue-50        { background-color: rgba(33, 133, 208, 0.5) !important;     }
+.bck-violet-50      { background-color: rgba(100, 53, 201, 0.5) !important;     }
+.bck-purple-50      { background-color: rgba(163, 51, 200, 0.5) !important;     }
+.bck-pink-50        { background-color: rgba(224, 57, 151, 0.5) !important;     }
+.bck-brown-50       { background-color: rgba(165, 103, 63, 0.5) !important;     }
+.bck-grey-50        { background-color: rgba(118, 118, 118, 0.5) !important;    }
+
+.bck-red-25         { background-color: rgba(219, 40, 40, 0.25) !important;     }
+.bck-orange-25      { background-color: rgba(242, 113, 28, 0.25) !important;    }
+.bck-yellow-25      { background-color: rgba(251, 189, 8, 0.25) !important;     }
+.bck-olive-25       { background-color: rgba(181, 204, 24, 0.25) !important;    }
+.bck-green-25       { background-color: rgba(33, 186, 69, 0.25) !important;     }
+.bck-teal-25        { background-color: rgba(0, 181, 173, 0.25) !important;     }
+.bck-blue-25        { background-color: rgba(33, 133, 208, 0.25) !important;    }
+.bck-violet-25      { background-color: rgba(100, 53, 201, 0.25) !important;    }
+.bck-purple-25      { background-color: rgba(163, 51, 200, 0.25) !important;    }
+.bck-pink-25        { background-color: rgba(224, 57, 151, 0.25) !important;    }
+.bck-brown-25       { background-color: rgba(165, 103, 63, 0.25) !important;    }
+.bck-grey-25        { background-color: rgba(118, 118, 118, 0.25) !important;   }

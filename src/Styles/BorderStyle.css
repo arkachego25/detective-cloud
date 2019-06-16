@@ -1,0 +1,14 @@
+.bdr-black          { border: thin solid rgb(27, 28, 29) !important;    }
+.bdr-white          { border: thin solid rgb(255, 255, 255) !important; }
+.bdr-red            { border: thin solid rgb(219, 40, 40) !important;   }
+.bdr-orange         { border: thin solid rgb(242, 113, 28) !important;  }
+.bdr-yellow         { border: thin solid rgb(251, 189, 8) !important;   }
+.bdr-olive          { border: thin solid rgb(181, 204, 24) !important;  }
+.bdr-green          { border: thin solid rgb(33, 186, 69) !important;   }
+.bdr-teal           { border: thin solid rgb(0, 181, 173) !important;   }
+.bdr-blue           { border: thin solid rgb(33, 133, 208) !important;  }
+.bdr-violet         { border: thin solid rgb(100, 53, 201) !important;  }
+.bdr-purple         { border: thin solid rgb(163, 51, 200) !important;  }
+.bdr-pink           { border: thin solid rgb(224, 57, 151) !important;  }
+.bdr-brown          { border: thin solid rgb(165, 103, 63) !important;  }
+.bdr-grey           { border: thin solid rgb(118, 118, 118) !important; }
